@@ -1,0 +1,14 @@
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.AssemblyInfoInputs.cache
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.AssemblyInfo.cs
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\bin\Debug\net8.0\Variables_Exercise1.exe
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\bin\Debug\net8.0\Variables_Exercise1.deps.json
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\bin\Debug\net8.0\Variables_Exercise1.runtimeconfig.json
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\bin\Debug\net8.0\Variables_Exercise1.dll
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\bin\Debug\net8.0\Variables_Exercise1.pdb
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.dll
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\refint\Variables_Exercise1.dll
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.pdb
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\Variables_Exercise1.genruntimeconfig.cache
+C:\Users\jtgam\source\repos\Variables_Exercise1\Variables_Exercise1\obj\Debug\net8.0\ref\Variables_Exercise1.dll
